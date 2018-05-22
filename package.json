@@ -14,7 +14,7 @@
     "level-codec": "6.1.0",
     "ltgt": "2.1.2",
     "pull-stream": "2.21.0",
-    "readable-stream": "1.0.33"
+    "readable-stream": "^2.0.0"
   },
   "scripts": {},
   "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr.com)",
